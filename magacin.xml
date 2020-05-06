@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Artikli>
+    <Artikal>
+        <Naziv id="1">asdf</Naziv>
+
+        <DatumIzrade>
+            <Dan>11</Dan>
+            <Mesec>2</Mesec>
+            <Godina>2019</Godina>
+        </DatumIzrade>
+        <Cena tip="dinar">100</Cena>
+        <KompanijaProdavca>
+            <ImeKompanije>ASSDASD</ImeKompanije>
+            <Adresa>asfasfasfa</Adresa>
+        </KompanijaProdavca>
+
+        <Email tip="privatni">asfasasf@gmail.com</Email>
+        <Email tip="sluzbeni">dddddd@gmail.com</Email>
+
+    </Artikal>
+
+    <Artikal>
+        <Naziv id="2">fasfasff</Naziv>
+
+        <DatumIzrade>
+            <Dan>3</Dan>
+            <Mesec>12</Mesec>
+            <Godina>2019</Godina>
+        </DatumIzrade>
+        <Cena tip="euro">100</Cena>
+        <KompanijaProdavca>
+            <ImeKompanije>ASSDASD</ImeKompanije>
+            <Adresa>ffffff</Adresa>
+            <Adresa>dddddd</Adresa>
+        </KompanijaProdavca>
+
+        <Email tip="sluzbeni">asfasasf@gmail.com</Email>
+
+    </Artikal>
+</Artikli>
