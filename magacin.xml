@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE Artikli SYSTEM "magacin.dtd">
 
-<Artikli>
+<Artikli xmlns="http://www.w3schools.com"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+         xs:schemaLocation="http://www.w3schools.com magacin.xsd">
+    
     <Artikal>
         <Naziv id="id_1">asdf</Naziv>
 
