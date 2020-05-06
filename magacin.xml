@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Artikli SYSTEM "magacin.dtd">
+
 <Artikli>
     <Artikal>
-        <Naziv id="1">asdf</Naziv>
+        <Naziv id="id_1">asdf</Naziv>
 
         <DatumIzrade>
             <Dan>11</Dan>
@@ -20,7 +22,7 @@
     </Artikal>
 
     <Artikal>
-        <Naziv id="2">fasfasff</Naziv>
+        <Naziv id="id_2">fasfasff</Naziv>
 
         <DatumIzrade>
             <Dan>3</Dan>
